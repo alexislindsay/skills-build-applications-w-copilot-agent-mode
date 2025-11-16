@@ -42,4 +42,4 @@ class WorkoutsController {
     }
 }
 
-export default WorkoutsController;
+module.exports = WorkoutsController;
